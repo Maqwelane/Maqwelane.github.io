@@ -1,0 +1,9 @@
+c:\users\maq\documents\visual studio 2013\Projects\Mzamotsha\Mzamotsha\bin\Mzamotsha.dll.config
+c:\users\maq\documents\visual studio 2013\Projects\Mzamotsha\Mzamotsha\bin\Mzamotsha.dll
+c:\users\maq\documents\visual studio 2013\Projects\Mzamotsha\Mzamotsha\bin\Mzamotsha.pdb
+c:\users\maq\documents\visual studio 2013\Projects\Mzamotsha\Mzamotsha\bin\Mzamotsha.xml
+c:\users\maq\documents\visual studio 2013\Projects\Mzamotsha\Mzamotsha\obj\Debug\Mzamotsha.Resources.resources
+c:\users\maq\documents\visual studio 2013\Projects\Mzamotsha\Mzamotsha\obj\Debug\Mzamotsha.vbproj.GenerateResource.Cache
+c:\users\maq\documents\visual studio 2013\Projects\Mzamotsha\Mzamotsha\obj\Debug\Mzamotsha.dll
+c:\users\maq\documents\visual studio 2013\Projects\Mzamotsha\Mzamotsha\obj\Debug\Mzamotsha.xml
+c:\users\maq\documents\visual studio 2013\Projects\Mzamotsha\Mzamotsha\obj\Debug\Mzamotsha.pdb
